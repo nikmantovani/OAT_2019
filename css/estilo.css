@@ -1,0 +1,45 @@
+body{
+	background-color:#4682B4;
+}
+body #cabecalho{
+	/*padding-bottom: 20px;*/
+}
+body #corpo {
+	margin-top: 20px;
+}
+.jumbotron{
+	background-color: white;
+}
+
+#div1 h1, #div2 h1{
+	color: blue;
+}
+
+table td, th{
+	border: 1px solid;
+}
+
+.menu{
+	list-style-type: none;
+	float: right;
+}
+
+.menu li{
+	margin: 20px;
+	float: left;
+}
+
+#rodape{
+	margin-top: 50px;
+	text-align: center;	
+}
+#div_sobre{
+	padding: 50px;
+	text-align: justify;
+}
+#div_tab table{
+	width: 100%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
+}
